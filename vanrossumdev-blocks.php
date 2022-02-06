@@ -7,6 +7,7 @@
  * Author URI: https://vanrossum.dev
  * Version: 0.0.1
  * Textdomain: vanrossumdev-blocks
+ * License: MIT
  */
 
 add_action( 'init', function () {
