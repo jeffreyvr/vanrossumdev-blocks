@@ -1,0 +1,16 @@
+{
+  "name": "vanrossumdev-blocks",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "laravel-mix": "^6.0.41",
+    "@babel/preset-react": "^7.16.7",
+    "@wordpress/babel-preset-default": "^6.5.0"
+  }
+}
